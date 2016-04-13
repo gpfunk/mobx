@@ -1,7 +1,7 @@
 # Best Practices for building large scale maintainable projects
 
 This section contains some best practices we discovered at Mendix while working with MobX.
-This section is opiniated and you are in no way forced to apply this practices.
+This section is opinionated and you are in no way forced to apply this practices.
 There are many ways of working with MobX and React, and this is just one of them.
 
 # Stores
